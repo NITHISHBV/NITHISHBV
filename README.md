@@ -1,7 +1,9 @@
 ## Hi there 👋 I am Nithish B V
 
 # 💫 About Me:
-BCA Graduate.<br>Proficient in Full Stack Development.<br><br>
+BCA Graduate.<br>
+Proficient in Full Stack Development.<br>
+Connect with me at bvnithish2002@gmail.com <br>
 
 
 ## 🌐 Socials:
