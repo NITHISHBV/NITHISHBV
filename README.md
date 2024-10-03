@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there 👋 I am Nithish B V
 
 # 💫 About Me:
-BCA Graduate.<br>Proficient in Full Stack Development.<br>Seeking growth and connection.<br>
+BCA Graduate.<br>Proficient in Full Stack Development.<br><br>
 
 
 ## 🌐 Socials:
