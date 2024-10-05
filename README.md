@@ -1,11 +1,17 @@
 ##                                                                                         Hi 👋 I am Nithish B V
 
 # 💫 About Me:
+
 👨‍🎓 BCA Graduate with a focus on Full Stack developer.
+
 ⏳ Currently working as Web Development intern at PRODIGY INFOTECH.
+
 🔍 Seeking growth and connection.
+
 📚 Spent the past year expanding knowledge and skills in Full stack development.
+
 🎯 Focusing on database Developer.
+
 🚀 Enthusiastic about open-source contributions and solving real-world challenges.
 
 
