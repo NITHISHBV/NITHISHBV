@@ -1,9 +1,13 @@
-## Hi there 👋 I am Nithish B V
+##                                                                                         Hi 👋 I am Nithish B V
 
 # 💫 About Me:
-BCA Graduate.<br>
-Proficient in Full Stack Development.<br>
-Connect with me at bvnithish2002@gmail.com <br>
+👨‍🎓 BCA Graduate with a focus on Full Stack developer.
+⏳ Currently working as Web Development intern at PRODIGY INFOTECH.
+🔍 Seeking growth and connection.
+📚 Spent the past year expanding knowledge and skills in Full stack development.
+🎯 Focusing on database Developer.
+🚀 Enthusiastic about open-source contributions and solving real-world challenges.
+
 
 
 ## 🌐 Socials:
