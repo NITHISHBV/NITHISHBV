@@ -4,7 +4,7 @@
 
 👨‍🎓 BCA Graduate with a focus on Full Stack developer.
 
-⏳ Currently working as Web Development intern at PRODIGY INFOTECH.
+⏳ Currently working as SQL internship at Vaishnav technologies.
 
 🔍 Seeking growth and connection.
 
