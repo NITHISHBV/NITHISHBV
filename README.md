@@ -4,7 +4,7 @@
 
 👨‍🎓 BCA Graduate with a focus on Full Stack developer.
 
-⏳ Currently working as SQL internship at Vaishnav technologies.
+⏳ Currently working as Full Stack Developer internship at JayBlues technologies.
 
 🔍 Seeking growth and connection.
 
