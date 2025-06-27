@@ -6,7 +6,7 @@
 
 ⏳ Currently working as Full Stack Developer  at JayBlues technologies.
 
-🔍 Seeking growth and connection. 
+🔍 Seeking growth and connection.  
 
 📚 Spent the past year expanding knowledge and skills in Full stack development.
 
