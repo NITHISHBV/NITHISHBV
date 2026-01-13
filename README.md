@@ -1,18 +1,19 @@
-##                                                                                        Hi 👋 I am Nithish B V
+👋 Hi, I’m Nithish B V
+💫 About Me
 
-# 💫 About Me:
+🎓 MCA Graduate with a strong foundation in Computer Applications
 
-👨‍🎓 BCA Graduate with a focus on Full Stack developer.
+💼 Full Stack Developer with 1+ year of professional experience
 
-⏳ Currently working as Full Stack Developer  at JayBlues technologies.
- 
-🔍 Seeking growth and connection.  
+🏢 Currently working at JayBlues Technologies
 
-📚 Spent the past year expanding knowledge and skills in Full stack development.
+💻 Experienced in building scalable, user-focused web applications
 
-🎯 Focusing on Cloud Developer.
+🌱 Continuously learning and adopting new and emerging technologies
 
-🚀 Enthusiastic about open-source contributions and solving real-world challenges.
+🔧 Passionate about clean code, problem-solving, and system design
+
+🚀 Interested in open-source contributions and real-world tech solutions
 
 
 
