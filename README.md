@@ -1,5 +1,4 @@
-👋 Hi, I’m Nithish B V
-💫 About Me
+ ##                                                                                                                👋 Hi, I’m Nithish B V
 
 🎓 MCA Graduate with a strong foundation in Computer Applications
 
