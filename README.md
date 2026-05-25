@@ -4,7 +4,7 @@
 
 💼 Full Stack Developer with 1+ year of professional experience
 
-🏢 Currently working at JayBlues Technologies
+🏢 Currently working at Akuna Technologies
 
 💻 Experienced in building scalable, user-focused web applications
 
